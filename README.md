@@ -1,8 +1,5 @@
 # Airbnb-python-project
-In this project, I performed a detailed exploratory data analysis (EDA) on Airbnb listings to uncover patterns in pricing, availability, and location-based trends. I used Python (Numpy,Pandas, Matplotlib, Seaborn) for data manipulation and visualization.
-# Airbnb Data Analysis Project
-
-This project involves exploratory data analysis (EDA) of Airbnb listings data using Python. The objective is to extract meaningful insights, understand pricing strategies, and identify patterns across locations and other features. Tools used include Pandas, Matplotlib, Seaborn, and more.
+In this project, I performed a detailed exploratory data analysis (EDA) on Airbnb listings to uncover patterns in pricing, availability, and location-based trends. I used Python (Numpy,Pandas, Matplotlib, Seaborn) for data manipulation and visualization. The objective is to extract meaningful insights, understand pricing strategies, and identify patterns across locations and other features. 
 
 ### Key Highlights:
 - Data Cleaning & Preprocessing
